@@ -87,6 +87,7 @@ module Requirejs::Rails
         uglify2
         useStrict
         wrap
+        wrapShim
       }
     end
 
