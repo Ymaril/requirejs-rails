@@ -17,6 +17,7 @@ module Requirejs
           Regexp.new("\\.html\\z"),
           Regexp.new("\\.js\\z"),
           Regexp.new("\\.txt\\z"),
+          Regexp.new("\\.json\\z"),
           BOWER_PATH_PATTERN
       ]
 
