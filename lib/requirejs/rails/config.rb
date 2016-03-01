@@ -56,6 +56,7 @@ module Requirejs
         priority
         scriptType
         shim
+        stubModules
         urlArgs
         waitSeconds
         xhtml
@@ -95,6 +96,7 @@ module Requirejs
         shim
         skipModuleInsertion
         skipPragmas
+        stubModules
         uglify
         uglify2
         useStrict
